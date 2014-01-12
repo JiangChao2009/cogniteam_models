@@ -1,0 +1,18 @@
+<package>
+  <name>cogniteam_models</name>
+  <version>1.0.0</version>
+  <description>
+    Gazebo robot models
+  </description>
+  <maintainer email="igor@cogniteam.com">Igor Makhtes</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <run_depend>lizi_description</run_depend>
+  <run_depend>bobcat_description</run_depend>
+
+  <export>
+    <metapackage/>
+  </export>
+
+</package>
